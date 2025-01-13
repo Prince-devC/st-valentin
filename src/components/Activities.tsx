@@ -41,7 +41,7 @@ export default function Activities() {
     <section className="py-20 bg-pink-50">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold text-center mb-12 text-gray-800">
-          Nos Activités
+          Au programme
         </h2>
         <Swiper
           modules={[Navigation, Pagination, Autoplay]}

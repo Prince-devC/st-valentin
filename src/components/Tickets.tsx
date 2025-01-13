@@ -6,21 +6,20 @@ const tickets = [
     name: "Standard",
     price: "30,000F",
     features: [
-      "Accès à la scène",
+      "Accès à la soirée",
       "Buffet",
-      "1 vin",
-      "4 bouteilles de boisson"
+      "1 bouteille de vin",
+      "Canettes de boisson"
     ]
   },
   {
     name: "VIP",
     price: "50,000F",
     features: [
-      "Places près de la scène",
+      "Place près de la scène",
       "Buffet VIP",
-      "1 Champagne",
-      "4 bouteilles de boisson",
-      "Coffret surprise"
+      "1 bouteille de Champagne",
+      "Canettes de boisson"
     ]
   }
 ];
