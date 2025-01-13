@@ -18,6 +18,7 @@ const tickets = [
     features: [
       "Place près de la scène",
       "Buffet VIP",
+      "1 bouteille de vin",
       "1 bouteille de Champagne",
       "Canettes de boisson"
     ]
